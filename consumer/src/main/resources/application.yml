@@ -1,1 +1,14 @@
-spring.application.name=consumer
+server:
+  port: 9928
+
+servlet:
+  context-path: /rabbitMQ
+
+spring:
+  rabbitmq:
+    host: 127.0.0.1
+    port: 5672
+    virtual-host: /rabbitMQ
+    username: rabbitMQ
+    password: 123456
+
