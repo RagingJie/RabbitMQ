@@ -8,9 +8,12 @@
         <version>2.6.7</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
+
+
     <groupId>com.rabbitMQ</groupId>
     <artifactId>app</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+
     <name>com.poying.www</name>
     <description>学习RabbitMQ</description>
     <url/>
