@@ -19,13 +19,11 @@
         <java.version>11</java.version>
     </properties>
 
-
     <dependencies>
         <dependency>
-            <groupId>com.rabbitMQ</groupId>
-            <artifactId>app</artifactId>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
-
     </dependencies>
 
     <build>

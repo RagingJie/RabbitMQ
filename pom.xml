@@ -9,6 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
+    <modules>
+        <module>publisher</module>
+    </modules>
+
 
     <groupId>com.rabbitMQ</groupId>
     <artifactId>app</artifactId>
